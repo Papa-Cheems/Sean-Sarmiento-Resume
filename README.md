@@ -9,7 +9,7 @@ I am a Computer Science student at Pamantasan ng Lungsod ng Maynila, with a stro
 
 You can access my resume in the following formats:
 
-* [**View PDF (Recommended)**](./Sean Andrei Sarmiento - Resume.pdf)
+* [**View PDF (Recommended)**](./Sean%20Andrei%20Sarmiento%20-%20Resume.pdf)
 * [**View as a Live Google Doc**](https://docs.google.com/document/d/1rTTnTBzRcVQuRYHFwyUCacs7JKhn2hKhLlo_0SbuA6Q/edit?usp=sharing)
 
 ---
