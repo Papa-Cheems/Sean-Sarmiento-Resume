@@ -20,4 +20,5 @@ Feel free to connect with me on other platforms:
 
 * **Main GitHub Profile:** [github.com/Papa-Cheems](https://github.com/Papa-Cheems)
 * **LinkedIn:** [linkedin.com/in/sean-sarmiento-518179332](https://www.linkedin.com/in/sean-sarmiento-518179332/)
+* **Kaggle:** [kaggle.com/seanandreisarmiento](https://www.kaggle.com/seanandreisarmiento)
 * **Email:** `sasarmiento2024@plm.edu.ph`
